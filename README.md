@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kjellden Knutzen
+- I'm a student at BYUI studying computer science 
+- I program in python
